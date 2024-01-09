@@ -1,0 +1,13 @@
+.card{
+    border: none;
+}
+.navcat{
+    color: white;
+}
+.navcat:hover  {
+    color: rgb(123, 123, 123);
+}
+.navbar-toggler-icon {
+  background-color: rgb(130, 130, 130); /* Set the background color to white */
+  border-radius: 5px;
+}
